@@ -4,3 +4,7 @@ This is a game inspired by the exercise and the game flappy bird which was a fam
 This project is by Robert Nguyen I am  was presentation on  05/06/2025.
 
 I am using the audio from the u itu store: https://assetstore.unity.com/?category=audio&free=true&orderBy=1
+
+Stickman and code: https://m.youtube.com/watch?v=F1wg8kfkvUI
+
+Flappy bird and source code: https://github.com/zigurous/unity-flappy-bird-tutorial
